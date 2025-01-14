@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_ter_qui\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3F58539-E5EB-4156-B0F6-8B60D1405DEF}|ex03\\ex03.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_ter_qui\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3F58539-E5EB-4156-B0F6-8B60D1405DEF}|ex03\\ex03.csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89C3F4BA-B18E-4D29-B145-CDC767B650C6}|ex04\\ex04.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_ter_qui\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C3F4BA-B18E-4D29-B145-CDC767B650C6}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EEFAB94C-6202-400E-8B63-30B6BACBB25D}|ex02\\ex02.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_ter_qui\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEFAB94C-6202-400E-8B63-30B6BACBB25D}|ex02\\ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA3CED77-D475-4442-8C0D-726DA805AB9A}|ex01\\ex01.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_ter_qui\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA3CED77-D475-4442-8C0D-726DA805AB9A}|ex01\\ex01.csproj|solutionrelative:ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,37 +22,6 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_ter_qui\\ex01\\Program.cs",
-              "RelativeDocumentMoniker": "ex01\\Program.cs",
-              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_ter_qui\\ex01\\Program.cs",
-              "RelativeToolTip": "ex01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T17:05:27.148Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_ter_qui\\ex03\\Program.cs",
-              "RelativeDocumentMoniker": "ex03\\Program.cs",
-              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_ter_qui\\ex03\\Program.cs",
-              "RelativeToolTip": "ex03\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T18:00:02.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_ter_qui\\ex02\\Program.cs",
@@ -67,6 +32,23 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T17:48:38.433Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_ter_qui\\ex04\\Program.cs",
+              "RelativeDocumentMoniker": "ex04\\Program.cs",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_ter_qui\\ex04\\Program.cs",
+              "RelativeToolTip": "ex04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:15:31.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         },
