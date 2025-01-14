@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -34,8 +30,7 @@
               "RelativeToolTip": "ex02\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T17:48:38.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T17:48:38.433Z"
             },
             {
               "$type": "Document",
@@ -43,12 +38,16 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_ter_qui\\ex04\\Program.cs",
               "RelativeDocumentMoniker": "ex04\\Program.cs",
-              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_ter_qui\\ex04\\Program.cs*",
-              "RelativeToolTip": "ex04\\Program.cs*",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_ter_qui\\ex04\\Program.cs",
+              "RelativeToolTip": "ex04\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T19:15:31.03Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         },
