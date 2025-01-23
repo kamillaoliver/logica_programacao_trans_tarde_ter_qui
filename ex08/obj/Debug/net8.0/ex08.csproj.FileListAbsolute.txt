@@ -1,0 +1,15 @@
+C:\Users\kamil\source\repos\logica_programacao_trans_tarde_ter_qui\ex08\obj\Debug\net8.0\ex08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\source\repos\logica_programacao_trans_tarde_ter_qui\ex08\obj\Debug\net8.0\ex08.AssemblyInfoInputs.cache
+C:\Users\kamil\source\repos\logica_programacao_trans_tarde_ter_qui\ex08\obj\Debug\net8.0\ex08.AssemblyInfo.cs
+C:\Users\kamil\source\repos\logica_programacao_trans_tarde_ter_qui\ex08\obj\Debug\net8.0\ex08.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\logica_programacao_trans_tarde_ter_qui\ex08\obj\Debug\net8.0\ex08.sourcelink.json
+C:\Users\kamil\source\repos\logica_programacao_trans_tarde_ter_qui\ex08\bin\Debug\net8.0\ex08.exe
+C:\Users\kamil\source\repos\logica_programacao_trans_tarde_ter_qui\ex08\bin\Debug\net8.0\ex08.deps.json
+C:\Users\kamil\source\repos\logica_programacao_trans_tarde_ter_qui\ex08\bin\Debug\net8.0\ex08.runtimeconfig.json
+C:\Users\kamil\source\repos\logica_programacao_trans_tarde_ter_qui\ex08\bin\Debug\net8.0\ex08.dll
+C:\Users\kamil\source\repos\logica_programacao_trans_tarde_ter_qui\ex08\bin\Debug\net8.0\ex08.pdb
+C:\Users\kamil\source\repos\logica_programacao_trans_tarde_ter_qui\ex08\obj\Debug\net8.0\ex08.dll
+C:\Users\kamil\source\repos\logica_programacao_trans_tarde_ter_qui\ex08\obj\Debug\net8.0\refint\ex08.dll
+C:\Users\kamil\source\repos\logica_programacao_trans_tarde_ter_qui\ex08\obj\Debug\net8.0\ex08.pdb
+C:\Users\kamil\source\repos\logica_programacao_trans_tarde_ter_qui\ex08\obj\Debug\net8.0\ex08.genruntimeconfig.cache
+C:\Users\kamil\source\repos\logica_programacao_trans_tarde_ter_qui\ex08\obj\Debug\net8.0\ref\ex08.dll
