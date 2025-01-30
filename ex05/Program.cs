@@ -7,7 +7,6 @@ Console.WriteLine("Digite o 2º numero: ");
 int num2 = int.Parse(Console.ReadLine());
 
 Console.Clear();
-
 Console.WriteLine("===============");
 Console.WriteLine("====SOMA DE NUMEROS===");
 Console.WriteLine("===============");

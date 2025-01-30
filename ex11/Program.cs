@@ -14,11 +14,12 @@ int i = 1;
 
 //Contagem usando do while
 Console.WriteLine( "Contagem usando do while: ");
+int j = 1;
 do
 {
-    Console.WriteLine(i);
-    i++;
-} while ( i <= numero );
+    Console.WriteLine(j);
+    j++;
+} while ( j <= numero );
 
 
 //Contagem usando for
@@ -26,7 +27,7 @@ Console.WriteLine("Contagem usando for: ");
 
 for (int k = 1; k <= numero; k++)
 {
-    Console.Write ( k );
+    Console.WriteLine ( k );
 }
 
 

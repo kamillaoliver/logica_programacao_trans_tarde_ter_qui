@@ -1,0 +1,15 @@
+C:\Users\kamilla.msoliveira\source\repos\logica_programacao_trans_tarde_ter_qui\ex14\bin\Debug\net8.0\ex14.exe
+C:\Users\kamilla.msoliveira\source\repos\logica_programacao_trans_tarde_ter_qui\ex14\bin\Debug\net8.0\ex14.deps.json
+C:\Users\kamilla.msoliveira\source\repos\logica_programacao_trans_tarde_ter_qui\ex14\bin\Debug\net8.0\ex14.runtimeconfig.json
+C:\Users\kamilla.msoliveira\source\repos\logica_programacao_trans_tarde_ter_qui\ex14\bin\Debug\net8.0\ex14.dll
+C:\Users\kamilla.msoliveira\source\repos\logica_programacao_trans_tarde_ter_qui\ex14\bin\Debug\net8.0\ex14.pdb
+C:\Users\kamilla.msoliveira\source\repos\logica_programacao_trans_tarde_ter_qui\ex14\obj\Debug\net8.0\ex14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamilla.msoliveira\source\repos\logica_programacao_trans_tarde_ter_qui\ex14\obj\Debug\net8.0\ex14.AssemblyInfoInputs.cache
+C:\Users\kamilla.msoliveira\source\repos\logica_programacao_trans_tarde_ter_qui\ex14\obj\Debug\net8.0\ex14.AssemblyInfo.cs
+C:\Users\kamilla.msoliveira\source\repos\logica_programacao_trans_tarde_ter_qui\ex14\obj\Debug\net8.0\ex14.csproj.CoreCompileInputs.cache
+C:\Users\kamilla.msoliveira\source\repos\logica_programacao_trans_tarde_ter_qui\ex14\obj\Debug\net8.0\ex14.sourcelink.json
+C:\Users\kamilla.msoliveira\source\repos\logica_programacao_trans_tarde_ter_qui\ex14\obj\Debug\net8.0\ex14.dll
+C:\Users\kamilla.msoliveira\source\repos\logica_programacao_trans_tarde_ter_qui\ex14\obj\Debug\net8.0\refint\ex14.dll
+C:\Users\kamilla.msoliveira\source\repos\logica_programacao_trans_tarde_ter_qui\ex14\obj\Debug\net8.0\ex14.pdb
+C:\Users\kamilla.msoliveira\source\repos\logica_programacao_trans_tarde_ter_qui\ex14\obj\Debug\net8.0\ex14.genruntimeconfig.cache
+C:\Users\kamilla.msoliveira\source\repos\logica_programacao_trans_tarde_ter_qui\ex14\obj\Debug\net8.0\ref\ex14.dll

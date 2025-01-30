@@ -9,7 +9,7 @@ double nota2 = double.Parse(Console.ReadLine());
 Console.WriteLine("Digite a 3° nota: ");
 double nota3 = double.Parse(Console.ReadLine());
 
-double media = (nota1 + nota2 + nota2 + nota3)/3;
+double media = (nota1 + nota2 + nota3)/3;
 
 if (media >= 7 )
 {

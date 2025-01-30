@@ -1,38 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\",
+  "WorkspaceRootPath": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C0F1155-1EE7-48B5-824C-5D62C1058C21}|ex12\\ex12.csproj|c:\\users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C0F1155-1EE7-48B5-824C-5D62C1058C21}|ex12\\ex12.csproj|solutionrelative:ex12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A3E3A82-CBF3-471E-A84D-B20E386615C1}|ex 14\\ex 14.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex 14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3E3A82-CBF3-471E-A84D-B20E386615C1}|ex 14\\ex 14.csproj|solutionrelative:ex 14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9DDC826-2273-4A8A-8313-70CD6001F8CD}|ex11\\ex11.csproj|c:\\users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A178534-A4F3-44B0-9EE6-2D54870BE99C}|ex14\\ex14.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A178534-A4F3-44B0-9EE6-2D54870BE99C}|ex14\\ex14.csproj|solutionrelative:ex14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DDC826-2273-4A8A-8313-70CD6001F8CD}|ex11\\ex11.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9DDC826-2273-4A8A-8313-70CD6001F8CD}|ex11\\ex11.csproj|solutionrelative:ex11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87C814D0-690E-4CB5-9D3F-DBAAE87A6C30}|ex10\\ex10.csproj|c:\\users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87C814D0-690E-4CB5-9D3F-DBAAE87A6C30}|ex10\\ex10.csproj|solutionrelative:ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C0F1155-1EE7-48B5-824C-5D62C1058C21}|ex12\\ex12.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0F1155-1EE7-48B5-824C-5D62C1058C21}|ex12\\ex12.csproj|solutionrelative:ex12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95D97E9A-A190-416D-91C7-69324C179DAB}|ex09\\ex09.csproj|c:\\users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95D97E9A-A190-416D-91C7-69324C179DAB}|ex09\\ex09.csproj|solutionrelative:ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D38ABE4D-A662-459D-A3B1-5FE39C984941}|ex13\\ex13.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38ABE4D-A662-459D-A3B1-5FE39C984941}|ex13\\ex13.csproj|solutionrelative:ex13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FDA1104-135F-4578-A566-E7AFD0E81816}|ex08\\ex08.csproj|c:\\users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FDA1104-135F-4578-A566-E7AFD0E81816}|ex08\\ex08.csproj|solutionrelative:ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89C3F4BA-B18E-4D29-B145-CDC767B650C6}|ex04\\ex04.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C3F4BA-B18E-4D29-B145-CDC767B650C6}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA402EEA-E481-441E-8B35-F528D45812B4}|ex07\\ex07.csproj|c:\\users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA402EEA-E481-441E-8B35-F528D45812B4}|ex07\\ex07.csproj|solutionrelative:ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3F58539-E5EB-4156-B0F6-8B60D1405DEF}|ex03\\ex03.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F58539-E5EB-4156-B0F6-8B60D1405DEF}|ex03\\ex03.csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF721801-B07B-4FA9-8C15-DB63C0441174}|ex06\\ex06.csproj|c:\\users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF721801-B07B-4FA9-8C15-DB63C0441174}|ex06\\ex06.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF721801-B07B-4FA9-8C15-DB63C0441174}|ex06\\ex06.csproj|solutionrelative:ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89C3F4BA-B18E-4D29-B145-CDC767B650C6}|ex04\\ex04.csproj|c:\\users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89C3F4BA-B18E-4D29-B145-CDC767B650C6}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95D97E9A-A190-416D-91C7-69324C179DAB}|ex09\\ex09.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95D97E9A-A190-416D-91C7-69324C179DAB}|ex09\\ex09.csproj|solutionrelative:ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FDA1104-135F-4578-A566-E7AFD0E81816}|ex08\\ex08.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FDA1104-135F-4578-A566-E7AFD0E81816}|ex08\\ex08.csproj|solutionrelative:ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA402EEA-E481-441E-8B35-F528D45812B4}|ex07\\ex07.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA402EEA-E481-441E-8B35-F528D45812B4}|ex07\\ex07.csproj|solutionrelative:ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF565DDE-6199-468C-95FE-423B1D9480CD}|ex05\\ex05.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF565DDE-6199-468C-95FE-423B1D9480CD}|ex05\\ex05.csproj|solutionrelative:ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA402EEA-E481-441E-8B35-F528D45812B4}|ex07\\ex07.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex07\\ex07.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA402EEA-E481-441E-8B35-F528D45812B4}|ex07\\ex07.csproj|solutionrelative:ex07\\ex07.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF721801-B07B-4FA9-8C15-DB63C0441174}|ex06\\ex06.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex06\\ex06.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF721801-B07B-4FA9-8C15-DB63C0441174}|ex06\\ex06.csproj|solutionrelative:ex06\\ex06.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF565DDE-6199-468C-95FE-423B1D9480CD}|ex05\\ex05.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex05\\ex05.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF565DDE-6199-468C-95FE-423B1D9480CD}|ex05\\ex05.csproj|solutionrelative:ex05\\ex05.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0F1155-1EE7-48B5-824C-5D62C1058C21}|ex12\\ex12.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex12\\ex12.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C0F1155-1EE7-48B5-824C-5D62C1058C21}|ex12\\ex12.csproj|solutionrelative:ex12\\ex12.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFAB94C-6202-400E-8B63-30B6BACBB25D}|ex02\\ex02.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFAB94C-6202-400E-8B63-30B6BACBB25D}|ex02\\ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C814D0-690E-4CB5-9D3F-DBAAE87A6C30}|ex10\\ex10.csproj|c:\\users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C814D0-690E-4CB5-9D3F-DBAAE87A6C30}|ex10\\ex10.csproj|solutionrelative:ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,112 +82,241 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex14\\Program.cs",
+              "RelativeDocumentMoniker": "ex14\\Program.cs",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex14\\Program.cs",
+              "RelativeToolTip": "ex14\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:31:55.475Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex12\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex 14\\Program.cs",
+              "RelativeDocumentMoniker": "ex 14\\Program.cs",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex 14\\Program.cs",
+              "RelativeToolTip": "ex 14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T18:09:55.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex13\\Program.cs",
+              "RelativeDocumentMoniker": "ex13\\Program.cs",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex13\\Program.cs",
+              "RelativeToolTip": "ex13\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:52:41.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex06\\Program.cs",
+              "RelativeDocumentMoniker": "ex06\\Program.cs",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex06\\Program.cs",
+              "RelativeToolTip": "ex06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:03:01.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex02\\Program.cs",
+              "RelativeDocumentMoniker": "ex02\\Program.cs",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex02\\Program.cs",
+              "RelativeToolTip": "ex02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:44:39.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex03\\Program.cs",
+              "RelativeDocumentMoniker": "ex03\\Program.cs",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex03\\Program.cs",
+              "RelativeToolTip": "ex03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:44:43.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ex12.csproj",
+              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex12\\ex12.csproj",
+              "RelativeDocumentMoniker": "ex12\\ex12.csproj",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex12\\ex12.csproj",
+              "RelativeToolTip": "ex12\\ex12.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T16:45:38.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ex05.csproj",
+              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex05\\ex05.csproj",
+              "RelativeDocumentMoniker": "ex05\\ex05.csproj",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex05\\ex05.csproj",
+              "RelativeToolTip": "ex05\\ex05.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T16:46:38.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ex06.csproj",
+              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex06\\ex06.csproj",
+              "RelativeDocumentMoniker": "ex06\\ex06.csproj",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex06\\ex06.csproj",
+              "RelativeToolTip": "ex06\\ex06.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T16:46:51.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex12\\Program.cs",
               "RelativeDocumentMoniker": "ex12\\Program.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex12\\Program.cs",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex12\\Program.cs",
               "RelativeToolTip": "ex12\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T01:59:37.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex11\\Program.cs",
-              "RelativeDocumentMoniker": "ex11\\Program.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex11\\Program.cs",
-              "RelativeToolTip": "ex11\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T00:45:39.676Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex10\\Program.cs",
-              "RelativeDocumentMoniker": "ex10\\Program.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex10\\Program.cs",
-              "RelativeToolTip": "ex10\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex11\\Program.cs",
+              "RelativeDocumentMoniker": "ex11\\Program.cs",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex11\\Program.cs",
+              "RelativeToolTip": "ex11\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T00:33:57.628Z"
+              "WhenOpened": "2025-01-23T00:45:39.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex09\\Program.cs",
-              "RelativeDocumentMoniker": "ex09\\Program.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex09\\Program.cs",
-              "RelativeToolTip": "ex09\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T00:16:45.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex08\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex08\\Program.cs",
               "RelativeDocumentMoniker": "ex08\\Program.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex08\\Program.cs",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex08\\Program.cs",
               "RelativeToolTip": "ex08\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T00:10:30.081Z"
+              "WhenOpened": "2025-01-23T00:10:30.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex07\\Program.cs",
-              "RelativeDocumentMoniker": "ex07\\Program.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex07\\Program.cs",
-              "RelativeToolTip": "ex07\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAwwA8AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T23:25:56.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex04\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex04\\Program.cs",
               "RelativeDocumentMoniker": "ex04\\Program.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex04\\Program.cs",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex04\\Program.cs",
               "RelativeToolTip": "ex04\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T19:15:31.03Z"
+              "WhenOpened": "2025-01-14T19:15:31.03Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
+              "Title": "ex07.csproj",
+              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex07\\ex07.csproj",
+              "RelativeDocumentMoniker": "ex07\\ex07.csproj",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex07\\ex07.csproj",
+              "RelativeToolTip": "ex07\\ex07.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T16:46:54.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex06\\Program.cs",
-              "RelativeDocumentMoniker": "ex06\\Program.cs",
-              "ToolTip": "C:\\Users\\kamil\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex06\\Program.cs",
-              "RelativeToolTip": "ex06\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABKAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex05\\Program.cs",
+              "RelativeDocumentMoniker": "ex05\\Program.cs",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex05\\Program.cs",
+              "RelativeToolTip": "ex05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T20:03:01.455Z"
+              "WhenOpened": "2025-01-23T16:45:10.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex07\\Program.cs",
+              "RelativeDocumentMoniker": "ex07\\Program.cs",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex07\\Program.cs",
+              "RelativeToolTip": "ex07\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:25:56.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex09\\Program.cs",
+              "RelativeDocumentMoniker": "ex09\\Program.cs",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex09\\Program.cs",
+              "RelativeToolTip": "ex09\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T00:16:45.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex10\\Program.cs",
+              "RelativeDocumentMoniker": "ex10\\Program.cs",
+              "ToolTip": "C:\\Users\\kamilla.msoliveira\\source\\repos\\logica_programacao_trans_tarde_ter_qui\\ex10\\Program.cs",
+              "RelativeToolTip": "ex10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T00:33:57.628Z",
+              "EditorCaption": ""
             }
           ]
         }
